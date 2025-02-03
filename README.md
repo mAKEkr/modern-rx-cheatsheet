@@ -1,7 +1,10 @@
 # modern-rx-cheatsheet
-Cheatsheets? Guide? for Mordern Rhymix Development. this guidelines using in [zodkr](https://github.com/zodkr)
+Cheatsheets? Guide? for Mordern Rhymix Development. this guidelines written and applied in [zodkr](https://github.com/zodkr)
 
 # Frontend
+
+## remove all `jquery` or `$`(jquery shorthand)
+
 
 ## using `fetch` except for `exec_json` or `exec_xml`
 ```js
