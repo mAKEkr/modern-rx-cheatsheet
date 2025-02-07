@@ -6,7 +6,7 @@ Cheatsheets? Guide? for Mordern Rhymix Development. this guidelines written and 
 ## remove all `jquery` or `$`(jquery shorthand)
 
 
-## using `fetch` except for `exec_json` or `exec_xml`
+## using `fetch` except for `exec_json` or `exec_xml` on `production`
 ```js
 fetch(window.request_uri, {
   method: 'POST',
